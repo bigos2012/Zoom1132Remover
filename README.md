@@ -1,6 +1,5 @@
 <h1 align="center">Zoom1132Remover</h1>
 <p align="center"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/bigos2012/Zoom1132Remover?style=plastic"></p>
-<p align="center"><img alt="Operating system" src="https://img.shields.io/badge/operating%20system-windows-red?style=plastic"></p>
 
 <p align="center">Removes all Zoom files. Useful when you get "Error code: 1132".
 <p align="center">Works only on Windows.
