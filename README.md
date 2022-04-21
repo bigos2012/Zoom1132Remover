@@ -1,5 +1,6 @@
 # Zoom1132Remover
 Removes all Zoom files. Useful when you get "Error code: 1132".
+Works only on Windows.
 
 # How to use
 ### 1. Run the "Zoom1132Remover.exe" application
