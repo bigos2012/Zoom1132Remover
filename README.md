@@ -2,7 +2,7 @@
 Removes all Zoom files. Useful when you get "Error code: 1132".
 
 # How to use
-### 1. Run the application
+### 1. Run the "Zoom1132Remover.exe" application
 ### 2. Click "Start Removal" button and wait until you get a completion message.
 ### DO NOT CLOSE THE APPLICATION UNTIL YOU RECEIVE THE COMPLETION MESSAGE!
 ### 3. Close the application
