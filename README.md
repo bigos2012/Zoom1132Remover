@@ -1,4 +1,8 @@
+<p align="center">
 # Zoom1132Remover
+  </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 Removes all Zoom files. Useful when you get "Error code: 1132".
 Works only on Windows.
 
